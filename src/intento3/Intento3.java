@@ -15,6 +15,7 @@ public class Intento3 {
      */
     public static void main(String[] args) {
         System.out.println("Este es otro intento");
+        System.out.println("Este es otro intento x2");
     }
     
 }
